@@ -4,6 +4,14 @@
     <strong>专为AI辅助小说创作设计的雪花写作法 Subagent 工具集</strong>
     <br />
     <br />
+
+[![GitHub release](https://img.shields.io/github/v/release/hahagood/snowflake-novel-subagents?include_prereleases)](https://github.com/hahagood/snowflake-novel-subagents/releases)
+[![GitHub stars](https://img.shields.io/github/stars/hahagood/snowflake-novel-subagents?style=social)](https://github.com/hahagood/snowflake-novel-subagents)
+[![GitHub forks](https://img.shields.io/github/forks/hahagood/snowflake-novel-subagents?style=social)](https://github.com/hahagood/snowflake-novel-subagents/network/members)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Made with Claude Code](https://img.shields.io/badge/Made%20with-Claude%20Code-blueviolet)](https://claude.com/claude-code)
+
 </div>
 
 ## 📖 项目简介

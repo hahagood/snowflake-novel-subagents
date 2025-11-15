@@ -1,0 +1,37 @@
+# OS and Editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# Logs
+*.log
+logs/
+
+# User-specific files
+.env
+.env.local
+
+# Build outputs
+dist/
+build/
+*.pyc
+__pycache__/
+
+# Dependencies
+node_modules/
+venv/
+.venv/
+
+# Test coverage
+coverage/
+.coverage
+htmlcov/
